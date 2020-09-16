@@ -1,5 +1,6 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bychanderzap&layout=compact" alt="bychanderzap" /></p>
 
-[![Spotify](https://novatorem-lake-nine.vercel.app/api/spotify)](https://open.spotify.com/user/12179561737)
+[![Spotify](https://novatorem-lake-nine.vercel.app/api/spotify)](https://open.spotify.com/user/12179561737) 
 
 <p style="margin-top:20px;">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ByChanderZap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>

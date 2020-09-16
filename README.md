@@ -40,5 +40,12 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<!--START_SECTION:activity-->
+
+
+
+
+<!--END_SECTION:activity-->
+
 
 ⭐️ From [ByChanderZap 💚💜](https://github.com/ByChanderZap)

@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/CentralDevelop/social_job_backend/pull/12) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-2. 💪 Opened PR [#12](https://github.com/CentralDevelop/social_job_backend/pull/12) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-3. 🎉 Merged PR [#11](https://github.com/CentralDevelop/social_job_backend/pull/11) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-4. 💪 Opened PR [#11](https://github.com/CentralDevelop/social_job_backend/pull/11) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-5. 🎉 Merged PR [#1](https://github.com/ByChanderZap/getting-tweets/pull/1) in [ByChanderZap/getting-tweets](https://github.com/ByChanderZap/getting-tweets)
+1. 🎉 Merged PR [#13](https://github.com/CentralDevelop/social_job_backend/pull/13) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+2. 💪 Opened PR [#13](https://github.com/CentralDevelop/social_job_backend/pull/13) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+3. 🎉 Merged PR [#12](https://github.com/CentralDevelop/social_job_backend/pull/12) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+4. 💪 Opened PR [#12](https://github.com/CentralDevelop/social_job_backend/pull/12) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+5. 🎉 Merged PR [#11](https://github.com/CentralDevelop/social_job_backend/pull/11) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
 <!--END_SECTION:activity-->
 
 ---

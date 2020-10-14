@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/PlatziMaster/challenge-node-08/pull/6) in [PlatziMaster/challenge-node-08](https://github.com/PlatziMaster/challenge-node-08)
-2. 🎉 Merged PR [#13](https://github.com/CentralDevelop/social_job_backend/pull/13) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-3. 💪 Opened PR [#13](https://github.com/CentralDevelop/social_job_backend/pull/13) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-4. 🎉 Merged PR [#12](https://github.com/CentralDevelop/social_job_backend/pull/12) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-5. 💪 Opened PR [#12](https://github.com/CentralDevelop/social_job_backend/pull/12) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+1. 🎉 Merged PR [#14](https://github.com/CentralDevelop/social_job_backend/pull/14) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+2. 💪 Opened PR [#14](https://github.com/CentralDevelop/social_job_backend/pull/14) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+3. 💪 Opened PR [#6](https://github.com/PlatziMaster/challenge-node-08/pull/6) in [PlatziMaster/challenge-node-08](https://github.com/PlatziMaster/challenge-node-08)
+4. 🎉 Merged PR [#13](https://github.com/CentralDevelop/social_job_backend/pull/13) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
+5. 💪 Opened PR [#13](https://github.com/CentralDevelop/social_job_backend/pull/13) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
 <!--END_SECTION:activity-->
 
 ---

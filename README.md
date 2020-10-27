@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Proyecto-Noticias/Backend/pull/1) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
-2. 💪 Opened PR [#1](https://github.com/Proyecto-Noticias/Backend/pull/1) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
-3. 🎉 Merged PR [#14](https://github.com/CentralDevelop/social_job_backend/pull/14) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-4. 💪 Opened PR [#14](https://github.com/CentralDevelop/social_job_backend/pull/14) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
-5. 💪 Opened PR [#6](https://github.com/PlatziMaster/challenge-node-08/pull/6) in [PlatziMaster/challenge-node-08](https://github.com/PlatziMaster/challenge-node-08)
+1. 🎉 Merged PR [#2](https://github.com/Proyecto-Noticias/Backend/pull/2) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
+2. 💪 Opened PR [#2](https://github.com/Proyecto-Noticias/Backend/pull/2) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
+3. 🎉 Merged PR [#1](https://github.com/Proyecto-Noticias/Backend/pull/1) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
+4. 💪 Opened PR [#1](https://github.com/Proyecto-Noticias/Backend/pull/1) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
+5. 🎉 Merged PR [#14](https://github.com/CentralDevelop/social_job_backend/pull/14) in [CentralDevelop/social_job_backend](https://github.com/CentralDevelop/social_job_backend)
 <!--END_SECTION:activity-->
 
 ---

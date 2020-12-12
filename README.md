@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ByChanderZap/Backend/pull/1) in [ByChanderZap/Backend](https://github.com/ByChanderZap/Backend)
-2. 💪 Opened PR [#1](https://github.com/ByChanderZap/Backend/pull/1) in [ByChanderZap/Backend](https://github.com/ByChanderZap/Backend)
-3. 🎉 Merged PR [#2](https://github.com/Proyecto-Noticias/Backend/pull/2) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
-4. 💪 Opened PR [#2](https://github.com/Proyecto-Noticias/Backend/pull/2) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
-5. 🎉 Merged PR [#1](https://github.com/Proyecto-Noticias/Backend/pull/1) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
+1. 💪 Opened PR [#5](https://github.com/gndx/ghost-on-heroku/pull/5) in [gndx/ghost-on-heroku](https://github.com/gndx/ghost-on-heroku)
+2. 🎉 Merged PR [#1](https://github.com/ByChanderZap/Backend/pull/1) in [ByChanderZap/Backend](https://github.com/ByChanderZap/Backend)
+3. 💪 Opened PR [#1](https://github.com/ByChanderZap/Backend/pull/1) in [ByChanderZap/Backend](https://github.com/ByChanderZap/Backend)
+4. 🎉 Merged PR [#2](https://github.com/Proyecto-Noticias/Backend/pull/2) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
+5. 💪 Opened PR [#2](https://github.com/Proyecto-Noticias/Backend/pull/2) in [Proyecto-Noticias/Backend](https://github.com/Proyecto-Noticias/Backend)
 <!--END_SECTION:activity-->
 
 ---

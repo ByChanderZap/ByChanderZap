@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ByChanderZap/crud-node-mysql/pull/2) in [ByChanderZap/crud-node-mysql](https://github.com/ByChanderZap/crud-node-mysql)
-2. 🎉 Merged PR [#2](https://github.com/ByChanderZap/CRUD-WithLogin-MySQL-NODE/pull/2) in [ByChanderZap/CRUD-WithLogin-MySQL-NODE](https://github.com/ByChanderZap/CRUD-WithLogin-MySQL-NODE)
-3. 🎉 Merged PR [#1](https://github.com/ByChanderZap/webpack-course/pull/1) in [ByChanderZap/webpack-course](https://github.com/ByChanderZap/webpack-course)
-4. 💪 Opened PR [#5](https://github.com/gndx/ghost-on-heroku/pull/5) in [gndx/ghost-on-heroku](https://github.com/gndx/ghost-on-heroku)
-5. 🎉 Merged PR [#1](https://github.com/ByChanderZap/Backend/pull/1) in [ByChanderZap/Backend](https://github.com/ByChanderZap/Backend)
+1. 🎉 Merged PR [#3](https://github.com/ByChanderZap/crud-node-mysql/pull/3) in [ByChanderZap/crud-node-mysql](https://github.com/ByChanderZap/crud-node-mysql)
+2. 🎉 Merged PR [#1](https://github.com/ByChanderZap/Express-MongoAPI-BoilerTemplate/pull/1) in [ByChanderZap/Express-MongoAPI-BoilerTemplate](https://github.com/ByChanderZap/Express-MongoAPI-BoilerTemplate)
+3. 🎉 Merged PR [#2](https://github.com/ByChanderZap/crud-node-mysql/pull/2) in [ByChanderZap/crud-node-mysql](https://github.com/ByChanderZap/crud-node-mysql)
+4. 🎉 Merged PR [#2](https://github.com/ByChanderZap/CRUD-WithLogin-MySQL-NODE/pull/2) in [ByChanderZap/CRUD-WithLogin-MySQL-NODE](https://github.com/ByChanderZap/CRUD-WithLogin-MySQL-NODE)
+5. 🎉 Merged PR [#1](https://github.com/ByChanderZap/webpack-course/pull/1) in [ByChanderZap/webpack-course](https://github.com/ByChanderZap/webpack-course)
 <!--END_SECTION:activity-->
 
 ---

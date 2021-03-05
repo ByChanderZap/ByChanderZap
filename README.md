@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ByChanderZap/f-coding-int/pull/2) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
-2. 💪 Opened PR [#2](https://github.com/ByChanderZap/f-coding-int/pull/2) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
-3. 🎉 Merged PR [#1](https://github.com/ByChanderZap/f-coding-int/pull/1) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
-4. 💪 Opened PR [#1](https://github.com/ByChanderZap/f-coding-int/pull/1) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
-5. 🎉 Merged PR [#7](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/7) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
+1. 🎉 Merged PR [#9](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/9) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
+2. 🎉 Merged PR [#2](https://github.com/ByChanderZap/f-coding-int/pull/2) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
+3. 💪 Opened PR [#2](https://github.com/ByChanderZap/f-coding-int/pull/2) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
+4. 🎉 Merged PR [#1](https://github.com/ByChanderZap/f-coding-int/pull/1) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
+5. 💪 Opened PR [#1](https://github.com/ByChanderZap/f-coding-int/pull/1) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
 <!--END_SECTION:activity-->
 
 ---

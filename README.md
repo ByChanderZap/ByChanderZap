@@ -48,11 +48,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/10) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
-2. 💪 Opened PR [#10](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/10) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
-3. 🎉 Merged PR [#9](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/9) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
-4. 🎉 Merged PR [#2](https://github.com/ByChanderZap/f-coding-int/pull/2) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
-5. 💪 Opened PR [#2](https://github.com/ByChanderZap/f-coding-int/pull/2) in [ByChanderZap/f-coding-int](https://github.com/ByChanderZap/f-coding-int)
+1. 🎉 Merged PR [#13](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/13) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
+2. 💪 Opened PR [#13](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/13) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
+3. 🎉 Merged PR [#10](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/10) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
+4. 💪 Opened PR [#10](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/10) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
+5. 🎉 Merged PR [#9](https://github.com/Searcher-PlatziMaster/searcher-backend/pull/9) in [Searcher-PlatziMaster/searcher-backend](https://github.com/Searcher-PlatziMaster/searcher-backend)
 <!--END_SECTION:activity-->
 
 ---

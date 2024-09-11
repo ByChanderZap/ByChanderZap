@@ -6,9 +6,8 @@
   <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ByChanderZap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <p style="padding: 5%;">
     <a href="https://twitter.com/ByChanderZap" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ByChanderZap?color=%231DA1F2&label=Say%20hi%20%40ByChanderZap&logo=Twitter&style=for-the-badge"></a>
-    <a href="mailto:chander.zap@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-Anything-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:neryt.alexander@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-Anything-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://api.whatsapp.com/send?phone=523314752865&text=I%20have%20something%20to%20tell%20you!"><img src="https://img.shields.io/badge/Whatsapp-Contact-red?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://steamcommunity.com/id/ByChanderZap/"><img src="https://img.shields.io/badge/Play-with%20me-orange?style=for-the-badge&logo=steam&logoColor=white"></a>
     <br><img alt="Profile views" src="https://views.whatilearened.today/views/github/ByChanderZap/ByChanderZap.svg?cache=remove">
   </p>
 </p>
